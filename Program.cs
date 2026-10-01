@@ -18,6 +18,7 @@ Console.WriteLine($"Presupuesto: {presupuesto} €");
 
 Console.WriteLine("========================");
 Console.WriteLine("       GAME OVER");
+Console.WriteLine("   Gracias por jugar");
 Console.WriteLine("========================");
 
 Console.WriteLine("========================");
