@@ -2,6 +2,9 @@
 Console.WriteLine($"Desarrollador 2: {alumnoB}");
 ﻿string alumnoA = "Marcos";
 Console.WriteLine($"Desarrollador 1: {alumnoA}");
+string lenguaje = "Java";
+Console.WriteLine($"Lenguaje favorito: {lenguaje}");
+
 
 Console.WriteLine("========================");
 Console.WriteLine("      EQUIPO C#");
