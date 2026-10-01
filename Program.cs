@@ -1,3 +1,5 @@
+﻿string alumnoB = "David";
+Console.WriteLine($"Desarrollador 2: {alumnoB}");
 ﻿string alumnoA = "Marcos";
 Console.WriteLine($"Desarrollador 1: {alumnoA}");
 
@@ -15,4 +17,6 @@ Console.WriteLine($"Presupuesto: {presupuesto} €");
 
 Console.WriteLine("========================");
 Console.WriteLine("       FIN");
+Console.WriteLine("========================");
+
 Console.WriteLine("========================");
