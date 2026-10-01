@@ -17,7 +17,7 @@ Console.WriteLine($"Puntos: {puntos}");
 Console.WriteLine($"Presupuesto: {presupuesto} €");
 
 Console.WriteLine("========================");
-Console.WriteLine("       FIN");
+Console.WriteLine("       GAME OVER");
 Console.WriteLine("========================");
 
 Console.WriteLine("========================");
